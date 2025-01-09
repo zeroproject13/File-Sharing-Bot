@@ -1,14 +1,10 @@
-pyrogram
+# --- For-Bot-Working --------- #
+pyrofork
 TgCrypto
-pyromod
+pyromod==1.5
+python-dotenv
+# --- For-Database ------------ #
 pymongo
 dnspython
+# --- For-Web-Response ------- #
 aiohttp
-motor
-aiofiles
-dnspython
-psutil
-render
-requests
-git+https://github.com/Hrishi2861/pyrofork-2.2.11-peer-fix.git
-humanize
